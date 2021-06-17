@@ -2,7 +2,7 @@
 ---
 
 ## Pre-Requisites Install Linux in Machine
-```
+
 
 1. Enabled [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package)
 2. Installed Ubuntu, Kali (CLI only)
@@ -10,7 +10,7 @@
 4. Installed Ubuntu 21.04 in the Oracle Virtual Box (GUI)
 5. Planning to explore options with DOcker as well
 
-```
+
 ---
 
 ## Assignment 1 - Create Multi Boot USB
