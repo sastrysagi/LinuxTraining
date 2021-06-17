@@ -134,3 +134,13 @@ In my Ubuntu 21.04 `~/.mozilla/firefox/*.default/Cache` is the location i observ
 
 `-rwx------`
 
+---
+## Assignment 8 - Find Process id of init
+```
+pidof init
+
+```
+
+`pidof` provides the porcess id of given program 
+
+
