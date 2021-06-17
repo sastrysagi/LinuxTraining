@@ -106,7 +106,7 @@ sudo systemctl enable multi-user.target
 sudo systemctl set-default multi-user.target
 
 ```
-From man systemctl
+### From man systemctl
 
    isolate NAME
        Start the unit specified on the command line and its dependencies and stop all others. If
