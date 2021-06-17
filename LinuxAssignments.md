@@ -115,3 +115,22 @@ sudo systemctl set-default multi-user.target
        This is similar to changing the runlevel in a traditional init system. The isolate command
        will immediately stop processes that are not enabled in the new unit, possibly including
        the graphical environment or terminal you are currently using
+
+---
+
+## Assignment 5 - Change UMASK value in Linux (Ubuntu 21.04)
+By using `umask` command we can find out the value of the masking for the user
+using `umask 0003` we can set the value of umask. 
+
+---
+
+## Assignment 6 - find the permission set to the downloaded files
+For me the files are stored with the permission set by umask value. 
+
+---
+
+## Assignment 7 - Find the path of the temporary files of the browser
+In my Ubuntu 21.04 `~/.mozilla/firefox/*.default/Cache` is the location i observe the browser cache and the permission is 700 i.e. 
+
+`-rwx------`
+
