@@ -144,3 +144,17 @@ pidof init
 `pidof` provides the porcess id of given program 
 
 
+---
+
+%## Assignment 9 - Run a command from history number
+use `!HistoryNumber` command
+
+---
+
+## Assignment 10 - Extract the entire static website content
+
+Us the below command
+
+```
+wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://os.umamahesh.net
+```
